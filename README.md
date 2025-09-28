@@ -1,6 +1,5 @@
 ## Analisando dados de um Dashboard de Vendas no Power BI.
 
-![klabinBi0001](https://github.com/user-attachments/assets/ba246c41-8329-4e75-a52c-7c86df9957f8)
 
 
 
