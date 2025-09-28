@@ -36,7 +36,6 @@ O desafio consiste em:
 
 🗂️ Estrutura do Repositório
 
-`plaintext
 
 <img width="872" height="543" alt="Screenshot_20250928-183152" src="https://github.com/user-attachments/assets/ea538467-5daa-4df5-9921-cead77027415" />
 
