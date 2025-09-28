@@ -16,15 +16,14 @@ Vamos para o primeiro desafio com Power BI? Neste projeto você irá replicar du
 ---
 
 
-`markdown
 
-📊 Relato Dash Vendas — Projeto de Análise de Dados
+📊 **Relato Dash Vendas — Projeto de Análise de Dados**
 
 Este repositório contém o projeto desenvolvido como parte do Bootcamp Klabin - Excel e Power BI Dashboards. O objetivo é aplicar conceitos de análise de dados e visualização utilizando ferramentas acessíveis como Excel e PowerPoint, replicando e criando dashboards com base em uma amostra de dados financeiros.
 
 ---
 
-🧠 Objetivo do Projeto
+🧠 **Objetivo do Projeto**
 
 O desafio consiste em:
 
@@ -34,7 +33,7 @@ O desafio consiste em:
 
 ---
 
-🗂️ Estrutura do Repositório
+🗂️ **Estrutura do Repositório**
 
 
 <img width="872" height="543" alt="Screenshot_20250928-183152" src="https://github.com/user-attachments/assets/ea538467-5daa-4df5-9921-cead77027415" />
@@ -42,7 +41,7 @@ O desafio consiste em:
 
 ---
 
-📈 Visuais Criados
+📈 **Visuais Criados**
 
 🔁 Páginas Replicadas (1 e 2)
 - Gráficos de barras e colunas com:
@@ -54,7 +53,7 @@ O desafio consiste em:
   - Total de Unidades Vendidas
 - Filtros interativos por País, Segmento e Produto
 
-🧪 Página Original (3)
+🧪 **Página Original (3)**
 - Mapa 1: Soma de Vendas e Unidades Vendidas por País
 - Mapa 2: Soma de Lucro por País
 - Gráfico de Pizza: Lucro por Segmento
@@ -63,7 +62,7 @@ Todos os visuais foram nomeados de forma clara e contextual, com atenção à di
 
 ---
 
-🛠️ Ferramentas Utilizadas
+🛠️ **Ferramentas Utilizadas**
 
 - Microsoft Excel: Para criação dos dashboards e gráficos
 - Microsoft PowerPoint: Para apresentação dos resultados
@@ -71,7 +70,7 @@ Todos os visuais foram nomeados de forma clara e contextual, com atenção à di
 
 ---
 
-📌 Como Visualizar
+📌 **Como Visualizar**
 
 1. Abra o arquivo Dashboard_Excel.xlsx para explorar os dashboards interativos.
 2. Visualize a apresentação final em RelatoDashVendas.pptx.
@@ -79,14 +78,14 @@ Todos os visuais foram nomeados de forma clara e contextual, com atenção à di
 
 ---
 
-🧾 Créditos e Referências
+🧾 **Créditos e Referências**
 
 - Dados fornecidos por julianazanelatto/powerbianalyst
 - Projeto desenvolvido por Sergio como parte do Bootcamp Klabin - Excel e Power BI Dashboards
 
 ---
 
-🚀 Próximos Passos
+🚀 **Próximos Passos**
 
 - Aprimorar o layout dos dashboards com técnicas avançadas de design
 - Migrar os visuais para Power BI assim que possível
