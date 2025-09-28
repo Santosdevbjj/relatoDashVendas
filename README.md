@@ -37,12 +37,9 @@ O desafio consiste em:
 🗂️ Estrutura do Repositório
 
 `plaintext
-📁 relatoDashVendas/
-├── Financial Sample (3).xlsx        # Base de dados original
-├── Dashboard_Excel.xlsx             # Arquivo com os dashboards criados no Excel
-├── RelatoDashVendas.pptx            # Apresentação final em PowerPoint
-└── README.md                        # Documentação do projeto
-`
+
+<img width="872" height="543" alt="Screenshot_20250928-183152" src="https://github.com/user-attachments/assets/ea538467-5daa-4df5-9921-cead77027415" />
+
 
 ---
 
